@@ -1,0 +1,2520 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Thor",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/thor-et00006389-24-03-2017-20-05-56.jpg",
+      "genre": "Action, Adenture, comedy",
+      "director": "Taika Waititi",
+      "languages":"English,Hindi,Telugu",
+      "rate": "4.5",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 2,
+      "title": "Wonder woman",
+      "genre": "Action, Adenture, Fantasy",
+      "director": "Patty Jenkins",
+      "languages":"English,Hindi,Telugu",
+      "rate": "4",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/wonder-woman-et00040458-1680524299.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 3,
+      "title": "Logan",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "languages":"English,Hindi,Telugu",
+      "rate": "3.5",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/wolverine-3-logan-et00047340-06-10-2016-11-01-21.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 4,
+      "title": "Despicable me 3",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "languages":"English,Hindi,Telugu",
+      "rate": "4",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/despicable-me-3-et00058404-13-06-2017-06-24-20.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 5,
+      "title": "Star war",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "languages":"English,Hindi,Telugu",
+      "rate": "5",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/star-wars--the-clone-wars-et00001990-24-03-2017-18-58-37.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 6,
+      "title": "Pitch Perfect 3",
+      "genre": "Animation, Action, Adventure",
+      "director": "Trish Sie",
+      "languages":"English,Hindi,Telugu",
+      "rate": "4.5",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot": "Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pitch-perfect-3-et00046422-20-06-2017-10-56-55.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 7,
+      "title": "Opération casse-noisette 2",
+      "genre": "Animation, Action, Adventure",
+      "director": "Cal Brunker",
+      "languages":"English,Hindi,Telugu",
+      "rate": "4.7",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot": "Following the events of the first film, Surly and his friends must stop Oakton City's mayor from destroying their home to make way for a dysfunctional amusement park.",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/operation-sundarbans-et00132479-08-06-2020-03-18-48.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 8,
+      "title":"Guntur Karam",
+      "genre":"Action, Drama",
+      "director":"Trivikram Srinivas",
+      "languages":"English,Hindi,Telugu",
+      "rate":"5",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot":"The film explores the gritty underworld of Guntur city, where an underworld king gets entangled in a romantic escapade with a journalist who is determined to expose the city`s illicit activities.",
+      "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/guntur-kaaram-et00310760-1686726453.jpg",
+      "currency":"THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 9,
+      "title":"Na Saami Ranga",
+      "genre":"Action, Drama,Thriller",
+      "director":"Vijay Binni",
+      "languages":"English,Hindi,Telugu",
+      "rate":"5",
+      "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+      "showTimings": [
+        [
+          { "date": "2024-01-16",
+           "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+             {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+          },
+          { "date": "2024-01-17",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00PM","screenNumber":2,
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:30PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] 
+         },
+          { "date": "2024-01-18",
+          "cinemaHalls": [
+            { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"3:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"11:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"9:00 AM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"4:00 PM","screenNumber":1, "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"7:00 PM","screenNumber":2,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}] },
+            {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+            "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"12:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]},
+            {"time":"6:00 PM","screenNumber":1,
+             "category": [
+              { "catname": "Gold", "ticketPrice": 150.0 },
+              { "catname": "Silver", "ticketPrice": 100.0 }
+            ]}]}
+          ] }                  
+        ]
+        
+      ],
+      "plot":"Naa Saami Ranga is a Telugu movie starring Nagarjuna Akkineni in a prominent role. It is directed by Vijay Binni.",
+      "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/naa-saami-ranga-et00369336-1694423314.jpg",
+      "currency":"THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+    }
+  },
+  {
+    "id": 10,
+    "title":"Hanu-Man",
+    "genre":"Action, Adventure,Fantasy",
+    "director":"Prashanth Varma",
+    "languages":"English,Hindi,Telugu",
+    "rate":"4.5",
+    "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+    "showTimings": [
+      [
+        { "date": "2024-01-16",
+         "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+           {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+        },
+        { "date": "2024-01-17",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:30PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+       },
+        { "date": "2024-01-18",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"11:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"9:00 AM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] }                  
+      ]
+      
+    ],
+    "plot":"Hanumanthu gets the powers of Hanuman in a distant village and fights for Anjanadri.",
+    "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/hanu-man-et00311673-1704954533.jpg",
+    "currency":"THB",
+    "prices": {
+      "normal": 200,
+      "superior": 300,
+      "sofa": 600
+  }
+  },
+  {
+    "id": 11,
+    "title":"Salaar:Cease Fire Part-1",
+    "genre":"Action, Thriller",
+    "director":"Prashanth Neel",
+    "languages":"English,Hindi,Telugu",
+    "rate":"4",
+    "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+    "showTimings": [
+      [
+        { "date": "2024-01-16",
+         "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+           {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+        },
+        { "date": "2024-01-17",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:30PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+       },
+        { "date": "2024-01-18",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"11:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"9:00 AM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] }                  
+      ]
+      
+    ],
+    "plot":"Brace yourself for an extraordinary tale of rebellion filled with power-packed action.",
+    "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/salaar-cease-fire--part-1-et00301886-1702971289.jpg",
+    "currency":"THB",
+    "prices": {
+      "normal": 200,
+      "superior": 300,
+      "sofa": 600
+  }
+  },
+  {
+    "id": 12,
+    "title":"Saindhav",
+    "genre":"Action, Drama",
+    "director":"Sailesh Kolanu",
+    "languages":"English,Hindi,Telugu",
+    "rate":"4",
+    "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+    "showTimings": [
+      [
+        { "date": "2024-01-16",
+         "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+           {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+        },
+        { "date": "2024-01-17",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:30PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+       },
+        { "date": "2024-01-18",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"11:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"9:00 AM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] }                  
+      ]
+      
+    ],
+    "plot":"Saindhav, a single parent, lives with his daughter. Manognya, a divorcee and Saindhav`s neighbour, is attracted to Saindhav. Things change when Saindhav`s daughter gets diagnosed with Spinal Muscular Atrophy and needs to get an injection worth 16 crores.",
+    "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/saindhav-et00350932-1704893068.jpg",
+    "currency":"THB",
+    "prices": {
+      "normal": 200,
+      "superior": 300,
+      "sofa": 600
+  }
+  },
+  {
+    "id": 13,
+    "title":"Aquaman and the Lost Kingdom ",
+    "genre":"Action, Adenture, Fantasy",
+    "director":"James Wan",
+    "languages":"English,Hindi,Telugu",
+    "rate":"5",
+    "date":["2024-01-16", "2024-01-17", "2024-1-18"],
+    "showTimings": [
+      [
+        { "date": "2024-01-16",
+         "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+           {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+        },
+        { "date": "2024-01-17",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:30PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+       },
+        { "date": "2024-01-18",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"11:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"9:00 AM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] }                  
+      ]
+      
+    ],
+    "plot":"When an ancient power is unleashed, Aquaman must forge an uneasy alliance with an unlikely ally to protect Atlantis, and the world, from irreversible devastation.",
+    "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/aquaman-and-the-lost-kingdom-et00321161-1699944848.jpg",
+    "currency":"THB",
+    "prices": {
+      "normal": 200,
+      "superior": 300,
+      "sofa": 600
+  }
+  },
+  {
+    "id": 14,
+    "title":"Dunki",
+    "genre":"Comedy,Drama",
+    "director":"RajKumar Hirani",
+    "languages":"English,Hindi,Telugu",
+    "rate":"3.5",
+    "date":["2024-01-16", "2024-01-17", "2024-01-18"],
+    "showTimings": [
+      [
+        { "date": "2024-01-16",
+         "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+           {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+        },
+        { "date": "2024-01-17",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"1:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00PM","screenNumber":2,
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:30PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] 
+       },
+        { "date": "2024-01-18",
+        "cinemaHalls": [
+          { "name": "GVK One BanjaraHills", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"3:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"11:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          { "name": "Platinum Movietime Cinemas:Ameerpet", "timings": [{"time":"9:00 AM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"9:00 AM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"4:00 PM","screenNumber":1, "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"7:00 PM","screenNumber":2,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}] },
+          {"name":"PVR:RK Cineplex","timings":[{"time":"9:00 AM","screenNumber":2, 
+          "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"12:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]},
+          {"time":"6:00 PM","screenNumber":1,
+           "category": [
+            { "catname": "Gold", "ticketPrice": 150.0 },
+            { "catname": "Silver", "ticketPrice": 100.0 }
+          ]}]}
+        ] }                  
+      ]
+      
+    ],
+    "plot":"A journey that tests and defines them: their courage, their smarts, and the strain of their conflicting ideologies. Dunki is a saga of friendships, borders, nostalgia for home and love that towers above it all.",
+    "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dunki-et00326964-1703064829.jpg",
+    "currency":"THB",
+    "prices": {
+      "normal": 200,
+      "superior": 300,
+      "sofa": 600
+  }
+  }
+  
+  ],
+  "upcomingmovies":[
+    {
+      "id": 1,
+      "title": "Dashmi",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dashmi-et00374030-1704279520.jpg",
+      "genre": "Drama,Suspense",
+      "director": "Shantanu Anant Tambe",
+      "languages":"Hindi",
+      "plot": "Dashmi is a Hindi movie starring Vardhan Puri and Sanjay Pandey in prominent roles. It is written and directed by Shantanu Anant Tambe.",
+      "releasedate": "19 Jan,2024"
+    },
+    {
+      "id": 2,
+      "title": "8 Don 75",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/8-don-75-et00307177-1700199768.jpg",
+      "genre": "Comedy,Romantic",
+      "director": "Sushrut Bhagwat",
+      "languages":"Marathi",
+      "plot": "8 Don 75 is a Marathi movie starring Shubhankar Tawde, Sanskruti Balgude and Pushkar Shrotri in prominent roles. It is a drama directed by Sushrut Bhagwat with Avadhoot Gupte as musician, forming part of the crew.",
+      "releasedate": "19 Jan,2024"
+    },
+    {
+      "id": 3,
+      "title": "Klaantha",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/klantha--a-mysterious-journey-et00372342-1697006952.jpg",
+      "genre": "Action, Thriller",
+      "director": "Vaibhav Prashanth",
+      "languages":"Kannada",
+      "plot": "While trucking, cute lovers get caught up in a mess by a gang in the forest. Can they overcome all obstacles and return home?",
+      "releasedate": "19 Jan,2024"
+    },
+    {
+      "id": 4,
+      "title": "Devil Hunters",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/devil-hunters-et00384078-1705565451.jpg",
+      "genre": "Horror, Thriller",
+      "director": "Parajith Ravindran",
+      "languages":"Malyalam",
+      "plot": "This is the story of a young girl who could terrify even the most adept Mahatantrik.",
+      "releasedate": "26 Jan,2024"
+    },
+    {
+      "id": 5,
+      "title": "I Hate You",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/i-hate-you-et00383236-1704871521.jpg",
+      "genre": "Romantic, Thriller",
+      "director": "Anji Ram",
+      "languages":"Telugu",
+      "plot": "I Hate You is a Telugu movie starring Karthik Raju, Mokksha and Sherry Agarwal in prominent roles.",
+      "releasedate": "19 Jan,2024"
+    },
+    {
+      "id": 5,
+      "title": "Premalo",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/premalo-et00383781-1705321708.jpg",
+      "genre": "Drama",
+      "director": "Chandu Koduri",
+      "languages":"Telugu",
+      "plot": "Due to some unexpected events, a video clip of Ravi raping Prasanti reaches Prasantis father. Why did Ravi do this? Did Ravi lovePrasanti? Due to some unexpected events, a video clip of Ravi raping Prasanti reaches Prasantis father. Why did Ravi do this? Did Ravi lovePrasanti?",
+      "releasedate": "26 Jan,2024"
+    },
+    {
+      "id": 6,
+      "title": "Before Marriage",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/before-marriage-et00383724-1705303617.jpg",
+      "genre": "Drama",
+      "director": "Sreedhar Reddy",
+      "languages":"Telugu",
+      "plot": "Dharani gets pregnant before getting married leading to a lot of societal pressure and stress. Will her father accept her? How will she overcome the situation?",
+      "releasedate": "26 Jan,2024"
+    },
+    {
+      "id": 7,
+      "title": "Bootcut Balaraju",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bootcut-balaraju-et00384006-1705485731.jpg",
+      "genre": "Drama",
+      "director": "Sreekoneti",
+      "languages":"Telugu",
+      "plot": "In the mischievous town of Sri Rangapuram, carefree Balaraju must transform from a roguish character to win the love of Mahalakshmi, challenged by disapproving matriarch Indravathi Patel. Will Balaraju's triumph break societal norms, allowing him to marry Mahalakshmi, or will the Collector become an alternative in this comedic love story?",
+      "releasedate": "2 Feb,2024"
+    },
+    {
+      "id": 8,
+      "title": "Kismat",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kismat-et00382934-1704708416.jpg",
+      "genre": "Comedy,Crime",
+      "director": "Srinath Badhineni",
+      "languages":"Telugu",
+      "plot": "An easy life of three seemingly ordinary, jobless engineers from a small village goes haywire as they try to hide an unwelcome money heist leaving only honesty on their side.",
+      "releasedate": "2 Feb,2024"
+    },
+    {
+      "id": 9,
+      "title": "Pathinidhi 2",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/prathinidhi-2-et00365260-1690264444.jpg",
+      "genre": "Drama,Political,Thriller",
+      "director": "Murthy Devagupthapu",
+      "languages":"Telugu",
+      "plot": "Sequel to Prathinidhi, Prathinidhi 2 stars Naara Rohith in the lead.",
+      "releasedate": "25 Jan,2024"
+    },
+    {
+      "id": 10,
+      "title": "Dheera",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dheera-et00342157-1705298072.jpg",
+      "genre": " Action,Thriller",
+      "director": "Sri Thirumala Thirupathi",
+      "languages":"Telugu",
+      "plot": "Things get messy when Ranadheer gets hired to transport the most wanted cargo by road.",
+      "releasedate": "2 Feb,2024"
+    }
+
+  ],
+  "events":[
+   {
+    "id":1,
+    "title":"Kids Sudoku Championship by MALSAR",
+    "date":"27 Jan 2024",
+    "time":"11:00 AM",
+    "category":"Education",
+    "subject":"English",
+    "duration":"3hrs",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-kids-sudoku-championship-by-malsar-0-2023-4-13-t-10-29-33.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAyNyBKYW4%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00357347-wlwdbteuap-portrait.jpg",
+    "description":"Boosts Children problem-solving abilities, which can benefit their academic and personal lives.Encourages Healthy competition that can build children confidence and self esteem "   
+   },
+   {
+    "id":2,
+    "title":"Masterclass on Consistent Compounding",
+    "date":"21 Jan 2024",
+    "time":"6:30 PM",
+    "category":"Workshop",
+    "subject":"English",
+    "duration":"1hr",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-masterclass-on-consistent-compounding-0-2021-11-22-t-5-25-56.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCAyMSBKYW4%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00318203-qlyswrkhdq-portrait.jpg",
+    "description":"Professor Strebulaev is an expert in corporate finance, venture and angel capital, innovation financing, corporate innovation, and financial decision-making." 
+   },
+   {
+    "id":3,
+    "title":"Focusing-The First Primary Goal",
+    "date":"19 Jan 2024-25 Feb 2024",
+    "time":"5:00 PM",
+    "category":"Workshop",
+    "subject":"English",
+    "duration":"1hr",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-focusing-the-first-primary-goal-0-2023-4-14-t-6-51-51.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-RnJpLCAxOSBKYW4gb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00357304-bjbpzdmksb-portrait.jpg",
+    "description":"Focusing is first primary Goal before capturing any type of photograph genre like Wildlife Stills & Action, Protraiture, Landscape, Macro, Low Light or any Conceptual photography genre. " 
+   },
+   {
+    "id":4,
+    "title":"Kisi Ko Batana Mat Ft. Anubhav Singh Bassi",
+    "date":"20 Jan 2024-31 March 2024",
+    "time":"8:00 AM",
+    "category":"Comedy",
+    "subject":"Hindi",
+    "duration":"1hr 30mins",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-kisi-ko-batana-mat-ft-anubhav-singh-bassi-0-2023-7-25-t-16-3-33.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAyMCBKYW4gb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00355125-zvfekjlhbm-portrait.jpg",
+    "description":"After the great success of his previous show Bas kar bassi Anubhav Singh Bassi is coming back to perform live on stage. This time, he will bring a whole new set of funny stories and jokes that will keep you entertained. Get ready to enjoy an exciting and hilarious performance that will make you laugh uncontrollably and leave you in high spirits." 
+   },
+   {
+    "id":5,
+    "title":"Talk Session in Business (Ft. Karthik Gunasekaran)",
+    "date":"31 Dec 2025",
+    "time":"9:00 AM",
+    "category":"Education",
+    "subject":"English",
+    "duration":"3hrs",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-talk-session-in-business-ft-karthik-gunasekaran-0-2023-6-22-t-3-39-58.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-V2VkLCAzMSBEZWM%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00362646-qrujlzurkp-portrait.jpg",
+    "description":"After the great success of his previous show Bas kar bassi Anubhav Singh Bassi is coming back to perform live on stage. This time, he will bring a whole new set of funny stories and jokes that will keep you entertained. Get ready to enjoy an exciting and hilarious performance that will make you laugh uncontrollably and leave you in high spirits." 
+   },
+   {
+    "id":6,
+    "title":"Punchliners Comedy Show ft Inder Sahani in Noida",
+    "date":"21 Jan 2024",
+    "time":"7:00 PM",
+    "category":"Comedy",
+    "subject":"Hindi,English",
+    "duration":"1hr",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-punchliners-comedy-show-ft-inder-sahani-in-noida-0-2024-1-2-t-13-4-15.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCAyMSBKYW4%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00309878-evxeagazme-portrait.jpg",
+    "description":"After the great success of his previous show Bas kar bassi Anubhav Singh Bassi is coming back to perform live on stage. This time, he will bring a whole new set of funny stories and jokes that will keep you entertained. Get ready to enjoy an exciting and hilarious performance that will make you laugh uncontrollably and leave you in high spirits." 
+
+   },
+   {
+    "id":7,
+    "title":"Ed Sheeran: +-=÷× Tour",
+    "date":"16 March 2024",
+    "time":"3:00 PM",
+    "category":"International",
+    "subject":"English",
+    "duration":"3hrs",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-ed-sheeran-tour-0-2024-1-16-t-16-20-27.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAxNiBNYXI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00373677-hrqpbwvwsu-portrait.jpg",
+    "description":"We are Thinking Out Loud’ here, but picture yourself at Ed Sheerans LIVE concert! The global sensation is bringing the +-=÷× tour to India for the first time ever (and yes, you can pronounce it as the Mathematics tour!) Celebrating hits from his five albums that we know, love and cannott stop grooving to, this concert offers you a monumental stadium set-up with a centre stage and a mind-blowing experience that is bound to give you the Shivers.This is Ed Sheeran in India like you’ve never experienced before!  So India, get ready for the Perfect Equation coming your way!" 
+
+   },
+   {
+    "id":8,
+    "title":"UK-AUSTRALIA STUDY EXPO 2024",
+    "date":"4 Feb 2024",
+    "time":"12:31 PM",
+    "category":"Education",
+    "subject":"English",
+    "duration":"3hrs",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-uk-australia-study-expo-2024-0-2024-1-2-t-13-23-1.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCA0IEZlYg%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00382295-hqlkpxbchb-portrait.jpg",
+    "description":"UK-Australia Education Expo 2024 is COMING SOON. For students and parents who want to learn about studying in the US or Canada, Meet representatives from top universities, Know your options, and network with other students" 
+   },
+   {
+    "id":9,
+    "title":"USA - CANADA STUDY EXPO 2024",
+    "date":"4 Feb 2024",
+    "time":"10:30 AM",
+    "category":"Education",
+    "subject":"English",
+    "duration":"6hrs",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-usa-canada-study-expo-2024-0-2024-1-17-t-13-15-55.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCA0IEZlYg%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00382056-xemgxkpwmk-portrait.jpg",
+    "description":"Our USA-Canada Education Fair is a one-stop shop for students who are interested in studying in the United States or Canada. Attending this fair will give you the opportunity to meet with representatives from top universities, learn about different degree programs, and get personalized advice on your application process." 
+   },
+   {
+    "id":10,
+    "title":"Talk Session in Multimedia (Ft. Jeremy Polgar)",
+    "date":"31 Dec 2025",
+    "time":"9:00 AM",
+    "category":"Education",
+    "subject":"English",
+    "duration":"3hrs",
+    "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-talk-session-in-multimedia-ft-jeremy-polgar-0-2023-6-22-t-12-35-29.jpg",
+    "eventimage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-V2VkLCAzMSBEZWM%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00362659-djksltzkly-portrait.jpg",
+    "description":"Forethought India has hosted an online talk session in Multimedia in India. World renowned animator working at Marvel  have shared their knowledge in this session. " 
+
+   }
+  ],
+  "transactions": [
+    {
+      "movieId": 4,
+      "price": 200,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 1
+    },
+    {
+      "movieId": 2,
+      "price": 300,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 2
+    },
+    {
+      "movieId": 5,
+      "price": 300,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 3
+    }
+  ]
+}
