@@ -1,0 +1,344 @@
+/* Add this style to your bookyshow.css file */
+
+.app {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .menu-options {
+    background-color: #eee;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu-options p {
+    cursor: pointer;
+  }
+  
+  .movie-container {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px;
+  }
+  .event-container{
+    display: flex;
+    overflow-x: auto;
+    padding: 20px;
+  }
+  .all-movies,
+  .latest-movies,.upcoming-movies,.events
+  {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    width: 90%;
+    overflow-x: hidden;
+    flex-wrap: wrap;
+  }
+ 
+  .movie-item {
+    margin-right: 20px;
+
+  }
+  .event-item{
+    margin-right: 20px;
+  }
+  .image-container {
+    width: 100%;
+    border-radius: 8px;
+
+  }
+  .event-image-container
+  {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 30px;
+  }
+  .text-container {
+    margin-top: 10px;
+    text-align: center;
+    width:220px ;
+  }
+    
+  
+  .movie-image {
+    width: 220px;
+    height: 300px;
+    object-fit: cover;
+    cursor: pointer;
+   
+  }
+  .event-image{
+    width: 220px;
+    height: 370px;
+    object-fit: cover;
+    cursor: pointer;
+   
+  }
+ .event-details-info h1{
+    margin: 0;
+    align-content: flex-start;
+ }
+  
+  .movie-details-page {
+    padding: 20px;
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+  }
+  .event-details-page{
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+
+  .movie-details-container {
+    display: flex;
+    align-items: flex-start;
+    background-color: #333;
+  }
+  .event-details-container{
+    display: flex;
+    align-items: flex-start;
+    background-color:black;
+  }
+  .movie-details-info {
+    flex: 1;
+  }
+  .event-details-info{
+    flex: 1;
+  }
+  .ratings-details-box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    width:fit-content;
+  }
+  .ratings-details-box button{
+    background-color: blue;
+    color: white;
+    margin-top: 15px;
+    height: 40px;
+    width: 100px;
+    margin-right: 50px;
+  }
+  
+  .language-details-box {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    align-items: center;
+  }
+  .book-tickets-button {
+    padding: 10px 20px;
+    background-color:red;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .about-movie-section {
+    margin-top: 40px;
+  }
+  
+ 
+.movie-details-image {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  .event-details-image{
+    width: 100%;
+    height: 450px;;
+    border-radius: 10px; /* Add rounded corners if desired */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  .date-time-container {
+    display: flex;
+  }
+  .date-container h4{
+    white-space: pre;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+  }
+  .date-container,
+  .time-container {
+    margin-right: 20px;
+    display: flex;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  /* Add your existing styles for other components */
+.data-moviename-container{
+    padding: 20px;
+    border:  1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+.show-timings-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .show-timings-container h2 {
+    color: #333;
+  }
+  
+  .show-timings-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .show-timings-container li {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  .show-timings-container strong {
+    color: #007bff;
+  }
+  .timings-container {
+    display: flex;
+    flex-direction: row;
+    /* Add any styling for the timings container here */
+  }
+  .cinema-timings-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+   
+  }
+  .modal {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  /* Seat Grid Styles */
+  .seat-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 40px);
+    gap: 10px;
+  }
+  
+  .seat-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .seat {
+    width: 40px;
+    height: 40px;
+    background: #ddd;
+    border: 1px solid #999;
+    cursor: pointer;
+  }
+  
+  .selected {
+    background: #6fbf73; /* Green color for selected seats */
+    color: white;
+  }
+  .release-date {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    color: white;
+    font-size: 14px;
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .suggestions-container {
+    position: absolute;
+    width: 68%;
+    margin-left:95px ;
+    max-height: 150px;
+    overflow-y: auto;
+    background-color: white;
+    color: black;
+  
+    border-radius: 4px;
+    margin-top: 0px;
+  }
+  
+  .suggestion {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .suggestion:hover {
+    background-color: #f0f0f0;
+  }
+  .booking-details {
+    max-width: 500px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 80px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .booking-details h2 {
+    color: #333;
+    margin-left: 150px;
+  }
+  
+  .booking-details p {
+    margin: 8px 0;
+    color: #666;
+    font-size: 20px;
+    margin-left: 150px;
+    justify-content: space-between;
+    margin-top: 12px;
+  }

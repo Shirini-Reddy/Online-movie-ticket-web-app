@@ -1,0 +1,14 @@
+{
+  "bookings": [
+    {
+      "id": "0fed",
+      "Time": "12:00 PM",
+      "NumberOfSeats": 2,
+      "Category": "Gold",
+      "ScreenNumber": 1,
+      "TicketPrice": 150,
+      "Date": "16\nJan",
+      "CinemaHall": "GVK One BanjaraHills"
+    }
+  ]
+}
